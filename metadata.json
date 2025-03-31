@@ -2,5 +2,5 @@
   "name": "Dutbag Coin",
   "symbol": "DBC",
   "description": "Test dutbag coin",
-  "image": "https://github.com/DavNenn/DBC/blob/main/DutbacCoinImage.png"
+  "image": "https://raw.githubusercontent.com/DavNenn/DBC/refs/heads/main/DutbacCoinImage.png"
 }
